@@ -1,0 +1,5 @@
+{
+  "name": "NightCourier.TestTools",
+  "references": ["UnityEditor.TestRunner", "UnityEngine.TestRunner"],
+  "includePlatforms": ["Editor"]
+}
